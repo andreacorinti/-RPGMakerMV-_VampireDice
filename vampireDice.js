@@ -23,7 +23,7 @@
  * 
  * Using 
  * 
- * vampireDice ($gameActors.actor(1).param[7], 6)
+ * vampireDice ($gameActors.actor(1).agi, 6)
  *  
  * you'll get a number of dice rolls equivalent to first character's agility value, 
  * with a difficulty of six.
